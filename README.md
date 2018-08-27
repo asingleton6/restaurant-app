@@ -1,2 +1,2 @@
 # restaurant-app
-I'm creating an responsive restaurant app that works offline using a ServiceWorker script
+A responsive restaurant app that works offline thru the use of a ServiceWorker script.
